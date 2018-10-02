@@ -19,11 +19,6 @@ Usage:
 Exemple:
 <br>./navy pos
 <br>./navy 3241 pos
-  
-#
-
-Projet mis à titre d'exemple pour vous aider a vous inspirer.
-<br>Copier le projet tel quel est inutile pour progresser.
 
 ## Authors
 * Bastien Rinck 
@@ -33,7 +28,7 @@ Projet mis à titre d'exemple pour vous aider a vous inspirer.
 
 ## Example
 
-### Premier navy
+### Joueur 1
 
 ```
 my_pid: 31567
@@ -98,7 +93,7 @@ attack:
 [...]
 ```
 
-### Second navy
+### Joueur 2
 
 ```
 my_pid: 31587
